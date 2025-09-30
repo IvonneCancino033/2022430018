@@ -83,7 +83,7 @@ bool borrarPosicion(Nodo*& frente, Nodo*& final, int posicion) {
 
     Nodo* actual = frente;
     if (posicion == 1) {  
-        // borrar el primero (tope de la pila)
+        // borrar el primero
         frente = actual->siguiente;
         if (frente == nullptr) {
             final = nullptr;
