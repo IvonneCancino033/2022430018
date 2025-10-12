@@ -1,6 +1,11 @@
 Arbol binario de numeros enteros
 
-Este programa permite crear un arbol, insertar un numero nuevo (nuevo nodo) en el arbol (ya creado), modificar un numero (ya ingresado), eliminar un numero y generar la imagen para visualizar el arbol utilizando Graphviz.
+Este programa permite: 
+-Crear un arbol
+-Insertar un numero nuevo (nuevo nodo) en el arbol (ya creado)
+-Modificar un numero (ya ingresado), 
+-Eliminar un numero 
+-Generar la imagen para visualizar el arbol utilizando Graphviz.
 
 Requisito para compilar y ejecutar correctamente este programa:
 - Un compilador de C++
@@ -18,11 +23,9 @@ Funciones principales:
 -inorden(Nodo*): Muestra el recorrido del arbol: izquierda -> raiz -> derecha
 -posorden(Nodo*): Muestra el recorrido del arbol: izquierda -> derecha -> raiz
 -generarDot(Nodo*, string, string): Genera un archivo .dot para visualizar el arbol (en una imagen en .png) con Graphviz
+-La función liberarArbol(Nodo*&) libera toda la memoria usada por el árbol al salir del programa.
 
-Visualizacion del arbol: el programa genera una imagen del arbol binario (grafo.png) y la abrira automaticamente (con system()),
-esto funciona si se tiene instalado Graphviz correctamente.
-
-La función liberarArbol(Nodo*&) libera toda la memoria usada por el árbol al salir del programa.
+Visualizacion del arbol: el programa genera una imagen del arbol binario (grafo.png) y la abrira automaticamente (con system()),esto funciona si se tiene instalado Graphviz correctamente.
 
 Flujo del uso del codigo:
 - -El programa inicia con un arbol vacio y se despliega un menu
@@ -38,6 +41,5 @@ Flujo del uso del codigo:
 - -Opcion 7: Se crea un archivo.dot con la estructura del arbol y se usa Graphviz para generar una imagen en formato .png y se abre automaticamente
 - -Opcion 8: Permite que el usuario inserte un nuevo numero con el arbol ya creado, el usuario debe indicar en que nodo existente quiere agregar un nuevo nodo e
 - indicando en que direccion (izquierda-derecha) y se realiza la insercion si es que ese lugar esta libre
-- Opcion 0: se libera toda la memoria utilizada en el programa y se termina la ejecucion
+- Opcion 0: Se libera toda la memoria utilizada en el programa y se termina la ejecucion
   
-- 
