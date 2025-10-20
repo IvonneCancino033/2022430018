@@ -1,0 +1,13 @@
+GO,Function,Score
+GO:0090398,Cellular senescence,1.00
+GO:0001302,Replicative senescence,0.97
+GO:0007050,Cell cycle arrest,0.96
+GO:0006979,Response to oxidative stress,0.93
+GO:0006974,Cellular response to DNA damage,0.92
+GO:0004956,SASP - IL6 secretion,1.88
+GO:0006954,Inflammatory response,1.86
+GO:0030198,ECM remodeling,1.80
+GO:0031099,Stem cell exhaustion,1.75
+GO:0016236,Macroautophagy,0.84
+GO:0031667,Response to nutrient levels,0.81
+GO:0006468,Protein phosphorylation,0.89
