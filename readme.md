@@ -1,4 +1,4 @@
-#  Laboratorio 7 — Árbol de Expansión Mínimo (Algoritmo de Prim)
+#  Laboratorio 7 — Grafo de Expansión Mínimo (Algoritmo de Prim)
 
 ## 👩‍💻 Autor
 
