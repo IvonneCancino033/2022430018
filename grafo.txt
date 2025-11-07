@@ -1,0 +1,20 @@
+graph G {
+rankdir=LR;
+node [style=filled, fillcolor=lightgreen, fontname="Arial"];
+a [label="a"];
+b [label="b"];
+c [label="c"];
+d [label="d"];
+e [label="e"];
+f [label="f"];
+a -- b [label="6", color=black, penwidth=1.5];
+a -- c [label="1", color=black, penwidth=1.5];
+a -- d [label="5", color=black, penwidth=1.5];
+b -- c [label="5", color=black, penwidth=1.5];
+b -- e [label="3", color=black, penwidth=1.5];
+c -- d [label="5", color=black, penwidth=1.5];
+c -- e [label="6", color=black, penwidth=1.5];
+c -- f [label="4", color=black, penwidth=1.5];
+d -- f [label="2", color=black, penwidth=1.5];
+e -- f [label="6", color=black, penwidth=1.5];
+}

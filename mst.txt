@@ -1,0 +1,15 @@
+graph MST {
+rankdir=LR;
+node [style=filled, fillcolor=lightblue, fontname="Arial"];
+a [label="Nodo a"];
+b [label="Nodo b"];
+c [label="Nodo c"];
+d [label="Nodo d"];
+e [label="Nodo e"];
+f [label="Nodo f"];
+c -- b [label="5", color=red, penwidth=2.5];
+a -- c [label="1", color=red, penwidth=2.5];
+f -- d [label="2", color=red, penwidth=2.5];
+b -- e [label="3", color=red, penwidth=2.5];
+c -- f [label="4", color=red, penwidth=2.5];
+}
