@@ -1,0 +1,854 @@
+    1  su -
+    2  cd Descargas/
+    3  ls
+    4  sudo apt install ./code_1.103.2-1755709794_amd64.deb 
+    5  su -
+    6  cd Descargas/
+    7  ls
+    8  sudo apt install ./code_1.103.2-1755709794_amd64.deb 
+    9  whoami
+   10  su
+   11  gcc --version
+   12  sudo apt install gcc
+   13  sudo apt install g++
+   14  cd "/home/ivonne/Documentos/algoritmo/output"
+   15  ./"cancino_ivonne_HolaMundo"
+   16  cd "/home/ivonne/Documentos/algoritmo/output"
+   17  ./"cancino_ivonne_HolaMundo"
+   18  cd "/home/ivonne/Documentos/algoritmo/output"
+   19  ./"cancino_ivonne_CalculoCuadrado"
+   20  cd "/home/ivonne/Documentos/algoritmo/output"
+   21  ./"cancino_ivonne_CalculoCuadrado"
+   22  cd "/home/ivonne/Documentos/algoritmo/output"
+   23  ./"cancino_ivonne_CalculoCuadrado"
+   24  cd "/home/ivonne/Documentos/algoritmo/output"
+   25  ./"cancino_ivonne_CalculoCuadrado"
+   26  cd "/home/ivonne/Documentos/algoritmo/output"
+   27  ./"cancino_ivonne_CalculoCuadrado"
+   28  cd "/home/ivonne/Documentos/algoritmo/output"
+   29  ./"cancino_ivonne_CalculoCuadrado"
+   30  cd "/home/ivonne/Documentos/algoritmo/output"
+   31  ./"cancino_ivonne_Laboratorio_0"
+   32  cd "/home/ivonne/Documentos/algoritmo/output"
+   33  ./"cancino_ivonne_laboratorio_0"
+   34  cd "/home/ivonne/Documentos/algoritmo/output"
+   35  ./"cancino_ivonne_laboratorio_0"
+   36  cd "/home/ivonne/Documentos/algoritmo/output"
+   37  ./"cancino_ivonne_laboratorio_0"
+   38  git --version
+   39  git remote add origin git@github.com:IvonneCancino0033\Laboratorios.git
+   40  https:\\github.com\IvonneCnacino033\2022430018.git
+   41  git init
+   42  git remote add origin https:\\github.com\IvonneCnacino033\2022430018.git
+   43  git branch -M main
+   44  git push -u origin main
+   45  git init 
+   46  git status
+   47  git add <algoritmo>
+   48  git remote add origin git@github.com:IvonneCancino0033\Laboratorios.git
+   49  cd /home/ivonne/Documentos/algoritmo
+   50  git init
+   51  git add .
+   52  git commit -m "laboratorio 0"
+   53  git remote add origin git@github.com:IvonneCancino0033\Laboratorios.git
+   54  git push -u origin laboratorio 0
+   55  cd /home/ivonne/Documentos/algoritmo
+   56  git init
+   57  git remote add origin https://github.com/IvonneCancino033/2022430018.git
+   58  git branch -M main
+   59  git push -u origin main
+   60  git branch -M main
+   61  git add .
+   62  git remote add origin https://github.com/IvonneCancino033/2022430018.git
+   63  git add .
+   64  git commit -m "laboratorio 0"
+   65  git remote add origin https://github.com/IvonneCancino033/2022430018.git
+   66  git remote add origin https://github.com/IvonneCancino033.git
+   67  git push -u origin main
+   68  git add .
+   69  git push -u origin main
+   70  git remote add origin https://github.com/IvonneCancino033/2022430018.git
+   71  rit rama -M principal
+   72  cd /home/ivonne/Documentos/algoritmo
+   73  git init
+   74  git remote add origin git.github.com:IvonneCancino033/2022430018.git
+   75  git branch -M main
+   76  git push -u origin main
+   77  ls -al~/.ssh
+   78  ls-al~/.ssh
+   79  ls -al~/.ssh
+   80  git init 
+   81  cd /home/ivonne/Documentos/algoritmo/Laboratorios
+   82  git init
+   83  git config --global init.defaultBranch <main>
+   84  git config --global init.defaultBranch <nombre>
+   85  git branch -m <main>
+   86  git remote add origin git.github.com:IvonneCancino033/2022430018.git
+   87  git branch -M main
+   88  git push -u origin main
+   89  git push -u origin master
+   90  cd /home/ivonne/Documentos/algoritmo/Laboratorios
+   91  git branch
+   92  git switch main
+   93  git switch master
+   94  cd "/home/ivonne/Documentos/algoritmo/Laboratorios/output"
+   95  ./"cancino_ivonne_esPalidromo"
+   96  atata
+   97  atat
+   98  cd "/home/ivonne/Documentos/algoritmo/Laboratorios/output"
+   99  ./"cancino_ivonne_esPalidromo"
+  100  atata
+  101  cd "/home/ivonne/Documentos/algoritmo/Laboratorios/output"
+  102  ./"cancino_ivonne_esPalidromo"
+  103  agtcc
+  104  cd "/home/ivonne/Documentos/algoritmo/Laboratorios/output"
+  105  ./"cancino_ivonne_laboratorio_0"
+  106  hola
+  107  ./"cancino_ivonne_laboratorio_0"
+  108  cd "/home/ivonne/Documentos/algoritmo/Laboratorios/output"
+  109  ./"cancino_ivonne_esComplementaria"
+  110  gcc --version
+  111  g++ --version
+  112  wich gcc g++
+  113  whitch gcc g++
+  114  dpkg --list |grep compiler
+  115  cd "/home/ivonne/Documentos/algoritmo/Laboratorios/output"
+  116  ./"puntero"
+  117  git init
+  118  ls -al 126
+  119  ls -al ~/.ssh
+  120  ssh-keygen -t ed25519 -C "ivonnecancinosanmartin@gmail.com"
+  121  ls -al ~/.ssh
+  122  eval"$(ssh-agent -s)"
+  123  ssh-add~/.ssh/id_ed25519
+  124  cat~/.ssh/id_ed25519.pub $
+  125  ls -al ~/.ssh
+  126  git init
+  127  git brack
+  128  git brach
+  129  git branch
+  130  git brach -m main
+  131  git branch -m main
+  132  git branch
+  133  git switch main
+  134  git switch master
+  135  git config --global init.defaultBranch main
+  136  git --list
+  137  git branch
+  138  git branch -r
+  139  ssh -T git@github.com
+  140  git init
+  141  git branch
+  142  touch laboratorio1.txt
+  143  ls
+  144  git add.
+  145  git add .
+  146  git status
+  147  git commit -m "Commit prueba"
+  148  git config --global user.email ivonnecancinosanmartin@gmail.com 
+  149  git config --global user.user IvonneCancino033
+  150  git config --list
+  151  git commit -m "Commit prueba"
+  152  git branch
+  153  git remote add origin git@github.com:IvonneCancino033/2022430018.git
+  154  LS
+  155  ls
+  156  git remote add origin git@github.com:IvonneCancino033/2022430018.git
+  157  git branch -M main
+  158  git pull
+  159  git pull remote main
+  160  git pull origen main
+  161  git pull origin main
+  162  git branch
+  163  git config pull.rebase true
+  164  git pull origin main
+  165  ls
+  166  git switch laboratorio1
+  167  git switch -c laboratorio1
+  168  git branch
+  169  labtest.cpp
+  170  towch labtest.cpp
+  171  echo "text" labtest1.cpp
+  172  git add .
+  173  code .
+  174  git add .
+  175  git status
+  176  echo "text" labtest2.cpp
+  177  ls
+  178  touch lab1.1.cpp
+  179  ls
+  180  git status
+  181  git add .
+  182  git status
+  183  git commit -m "trabajando en la rama lab1"
+  184  git git branch
+  185  git branch
+  186  git push -u origin laboratorio1
+  187  git rm --cached cancino_ivonne_CalculoCuadrado.cpp
+  188  git rm --cached cancino_ivonne_HolaMundo.cpp
+  189  git rm --cached cancino_ivonne_Laboratorio_0.cpp
+  190  git rm --cached cancino_ivonne_laboratorio_0.cpp
+  191  git commit -m "Eliminando"
+  192  git push -u origin laboratorio1
+  193  git branch
+  194  touch $cancino_$ivonne_ejercicio_0.cpp
+  195  ls
+  196  git status
+  197  ls
+  198  git status
+  199  git add .
+  200  git status
+  201  touch ivonne_cancino_ejercicio0.cpp
+  202  git status
+  203  git add .
+  204  git status
+  205  touch ivonne_cancino_ejercicio1.cpp
+  206  git status
+  207  git add .
+  208  git status
+  209  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  210  ./"ivonne_cancino_ejercicio0"
+  211  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  212  ./"ivonne_cancino_ejercicio1"
+  213  '/home/ivonne/Descargas/Ej_Lista_Enlazada.c.c'
+  214  ivonne
+  215  '/home/ivonne/Descargas/Ej_Lista_Enlazada.c.c'
+  216  geany la1.c
+  217  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  218  ./"lab1.1"
+  219  git init
+  220  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  221  ./"ivonne_cancino_ejercicio1"
+  222  ls
+  223  git branch
+  224  touch ivonne_cancino_ejercicio2.cpp
+  225  git add .
+  226  git status
+  227  git init 
+  228  git init
+  229  cd
+  230  touch cancino_ivonne_Ejercicio3.cpp
+  231  git add .
+  232  git status
+  233  git branch
+  234  touch cancino_ivonne_Ejercicio4.cpp
+  235  git add .
+  236  git status
+  237  git branch
+  238  touch pacientes.txt
+  239  git add .
+  240  git status
+  241  git branch
+  242  git status
+  243  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  244  ./"ivonne_cancino_ejercicio2"
+  245  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  246  ./"ivonne_cancino_ejercicio2"
+  247  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  248  ./"ivonne_cancino_ejercicio2"
+  249  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  250  ./"ivonne_cancino_ejercicio2"
+  251  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  252  ./"cancino_ivonne_Ejercicio3"
+  253  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  254  ./"cancino_ivonne_Ejercicio3"
+  255  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  256  ./"cancino_ivonne_Ejercicio3"
+  257  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  258  ./"cancino_ivonne_Ejercicio3"
+  259  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  260  ./"cancino_ivonne_Ejercicio3"
+  261  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  262  ./"cancino_ivonne_Ejercicio3"
+  263  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  264  ./"cancino_ivonne_Ejercicio4"
+  265  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  266  ./"cancino_ivonne_Ejercicio4"
+  267  ./"cancino_ivonne_Ejercicio3"
+  268  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  269  ./"cancino_ivonne_Ejercicio4"
+  270  ./"cancino_ivonne_Ejercicio3"
+  271  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  272  ./"cancino_ivonne_Ejercicio3"
+  273  cd "/home/ivonne/Documentos/algoritmo/lab/output"
+  274  ./"cancino_ivonne_Ejercicio4"
+  275  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  276  ./"cancino_ivonne_actividad1"
+  277  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  278  ./"cancino_ivonne_actividad1"
+  279  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  280  ./"cancino_ivonne_actividad1"
+  281  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  282  ./"cancino_ivonne_actividad1"
+  283  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  284  ./"cancino_ivonne_actividad2"
+  285  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  286  ./"cancino_ivonne_actividad2"
+  287  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  288  ./"cancino_ivonne_actividad2"
+  289  4 4
+  290  4
+  291  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  292  ./"cancino_ivonne_actividad2"
+  293  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  294  ./"cancino_ivonne_actividad2"
+  295  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  296  ./"cancino_ivonne_actividad2"
+  297  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  298  ./"cancino_ivonne_actividad2"
+  299  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  300  ./"cancino_ivonne_actividad2"
+  301  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  302  ./"cancino_ivonne_actividad2"
+  303  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  304  ./"cancino_ivonne_actividad2"
+  305  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  306  ./"cancino_ivonne_actividad2"
+  307  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  308  ./"cancino_ivonne_actividad2"
+  309  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  310  ./"cancino_ivonne_actividad2"
+  311  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  312  ./"cancino_ivonne_actividad2"
+  313  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  314  ./"cancino_ivonne_actividad2"
+  315  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  316  ./"cancino_ivonne_actividad1"
+  317  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  318  ./"cancino_ivonne_actividad1"
+  319  cd "/home/ivonne/Documentos/algoritmo/laboratorio2/output"
+  320  ./"cancino_ivonne_actividad1"
+  321  git nit 
+  322  git config --global user.email ivonnecancinosanmartin@gmail.com
+  323  git config --global user.user IvonneCancino033
+  324  --list
+  325  git init
+  326  git config --global user.email ivonnecancinosanmartin@gmail.com
+  327  git config --global user.user IvonneCancino033
+  328  --list
+  329  git init
+  330  git config --list
+  331  git branch
+  332  git switch laboratorio2
+  333  git switch -c laboratorio2
+  334  git branch
+  335  git status
+  336  touch $cancino_$ivonne_Actividad1.cpp
+  337  git add .
+  338  git status
+  339  touch $cancino_$ivonne_Actividad2.cpp
+  340  git add .
+  341  git status
+  342  git branch 
+  343  git status
+  344  git add cancino_ivonne_actividad1.cpp
+  345  git status
+  346  git add output/cancino_ivonne_actividad1
+  347  git status
+  348  git add cancino_ivonne_actividad2.cpp
+  349  git status
+  350  git add output/cancino_ivonne_actividad2
+  351  git status
+  352  git commit -m "trabajando con pilas"
+  353  git pull
+  354  git init
+  355  git branch
+  356  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  357  ./"actividad1"
+  358  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  359  ./"actividad1"
+  360  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  361  ./"actividad1"
+  362  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  363  ./"actividad1"
+  364  git checkout -b laboratorio3
+  365  git branch 
+  366  touch actividad1.cpp
+  367  ls
+  368  git add .
+  369  git status
+  370  git add .
+  371  git commit -m "trabajando con colas y listas"
+  372  git push -u laboratorio3
+  373  git push --set-upstream laboratorio3 laboratorio3
+  374  git push --set-upstream laboratorio3
+  375  git remote -v
+  376  git remote add laboratorio3 https://github.com/IvonneCancino033/2022430018
+  377  git push --set-upstream laboratorio3 laboratorio3
+  378  git remote -v
+  379  git remote set-url origin git@github.com:IvonneCancino033/2022430018.git
+  380  git remote -v
+  381  git push -u laboratorio3 main
+  382  git branch
+  383  git push -u laboratorio3 laboratorio3
+  384  git remote set-url laboratorio3 git@github.com:IvonneCancino033/2022430018.git
+  385  git push -u laboratorio3 laboratorio3
+  386  input_file = "2PTN.pdb"
+  387  awk 'BEGIN{OFS=";"} /^ATOM/ {print substr($0,18,3), substr($0,22,1), substr($0,23,4)}' 2PTN.pdb > 2PTN_Resids.pdb
+  388  grep ';A;' 2PTN_Resids.pdb > 2PTN_Resids_ChainA.pdb
+  389  awk 'BEGIN{FS=";";OFS=""}{print $1, $3}' 2PTN_Resids_ChainA.pdb > 2PTN_Resids_ChainA_Format.pdb
+  390  uniq 2PTN_Resids_ChainA_Format.pdb > 2PTN_Resids_ChainA_Format_Uniq.pdb
+  391  ls
+  392  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  393  ./"actividad"
+  394  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  395  ./"actividad"
+  396  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  397  ./"actividad"
+  398  /home/ivonne/Documentos/algoritmo/laboratorio 3
+  399  ./proteina "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  400  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  401  ./"actividad"
+  402  /home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb
+  403  /actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  404  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  405  ./"actividad"
+  406  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  407  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  408  ./"actividad"
+  409  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  410  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  411  ./"actividad"
+  412  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  413  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  414  ./"actividad"
+  415  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  416  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  417  $ apt-get install graphviz
+  418  sudo apt-get update
+  419  sudo apt-get install graphviz
+  420  dot -V
+  421  dot -Tpng primary_structure.dot -o primary_structure.png
+  422  eog primary_structure.png
+  423  sudo apt-get install eog
+  424  eog primary_structure.png
+  425  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  426  eog primary_structure.png
+  427  cat primary_structure.dot
+  428  eog primary_structure.png
+  429  cat primary_structure.dot
+  430  eog primary_structure.png
+  431  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  432  ./"actividad"
+  433  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  434  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  435  ./"actividad"
+  436  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  437  /home/ivonne/Documentos/algoritmo/laboratorio 3/output/primary_structure.png
+  438  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  439  ./"actividad"
+  440  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  441  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  442  ./"actividad"
+  443  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  444  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  445  ./"actividad"
+  446  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  447  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  448  ./"actividad"
+  449  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  450  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  451  ./"actividad"
+  452  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  453  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  454  ./"actividad"
+  455  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  456  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  457  ./"actividad"
+  458  git init
+  459  git add .
+  460  git branch
+  461  git add .
+  462  [200~git commit -m "Subida inicial de código"
+  463  git add .
+  464  git commit -m "trabajando con cola (nodos enlazados) y archivo pdb"
+  465  git remote add origin https://github.com/IvonneCancino033/algoritmos-lab3.git
+  466  git puch -u origin main
+  467  git push -u origin main
+  468  git branch -M main
+  469  git push -u origin main
+  470  cat ~/.ssh/id_ed25519.pub
+  471  ssh -T git@github.com
+  472  git branch -M main
+  473  git push -u origin main
+  474  git branch -M main
+  475  git push -u origin main
+  476  cd "/home/ivonne/Documentos/algoritmo/laboratorio 3/output"
+  477  ./"actividad"
+  478  ./actividad "/home/ivonne/Documentos/algoritmo/laboratorio 3/2PTN_Resids_ChainA_Format_Uniq.pdb"
+  479  git init
+  480  git branch laboratorio4
+  481  git branch
+  482  git branch laboratorio4
+  483  echo "# Proyecto algoritmo" > README.md
+  484  git add README.md
+  485  git commit -m "Primer commit"
+  486  git branch laboratorio4
+  487  git checkout laboratorio4
+  488  git switch -c laboratorio4
+  489  git push -u origin laboratorio4
+  490  git init
+  491  git branch laboratorio4
+  492  git checkout laboratorio4
+  493  git commit -m "Primer commit del laboratorio 4"
+  494  git switch -c laboratorio4
+  495  git branch laboratorio4
+  496  git checkout laboratorio4
+  497  git push -u origin laboratorio4
+  498  git branch
+  499  git switch laboratorio4
+  500  git init
+  501  echo "# Laboratorio 4" > README.md
+  502  git add README.md
+  503  git commit -m "Primer commit del laboratorio 4"
+  504  git switch -c laboratorio4
+  505  git branch laboratorio4
+  506  git checkout laboratorio4
+  507  git branch
+  508  git push -u origin laboratorio4
+  509  git remote add origin https://github.com/IvonneCancino033/laboratorio4.git
+  510  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  511  ./"arbol_binario"
+  512  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  513  ./"arbol_binario"
+  514  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  515  ./"arbol_binario"
+  516  git init
+  517  [200~git remote add origin https://github.com/IvonneCancino033/laboratorio4.git
+  518  git remote add origin https://github.com/IvonneCancino033/laboratorio4.git
+  519  git commit -m "Primer commit del laboratorio 4"
+  520  git switch -c laboratorio4
+  521  git branch
+  522  touch arbol_binario.cpp
+  523  git add arbol_binario.cpp
+  524  git commit -m "Creando arbol binario" main.cpp"
+  525  git push -u origin laboratorio4
+  526  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  527  ./"arbol_binario"
+  528  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  529  ./"arbol_binario"
+  530  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  531  ./"arbol_binario"
+  532  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  533  ./"arbol_binario"
+  534  git init 
+  535  git branch
+  536  cd laboratorio4
+  537  ls
+  538  git add .
+  539  git commit -m "trabajando en arbol binario"
+  540  git remote add origin https://https://github.com/IvonneCancino033/2022430018/laboratorio4.git
+  541  git push -u origin laboratorio4
+  542  https://github.com/IvonneCancino033/laboratorio4.git
+  543  ssh-keygen -t ed25519 -C "ivonnecancinosanmatin.com"
+  544  /home/ivonne/.ssh/id_ed25519.pub
+  545  cat ~/.ssh/id_ed25519.pub
+  546  ssh -T git@github.com
+  547  git remote set-url origin git@github.com:IvonneCancino033/laboratorio4.git
+  548  git push -u origin laboratorio4
+  549  git remote set-url origin git@github.com:IvonneCancino033/laboratorio4.git
+  550  git push -u origin 
+  551  git push -u origin laboratorio4
+  552  git branch
+  553  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  554  ./"arbol_binario"
+  555  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  556  ./"arbol_binario"
+  557  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  558  ./"arbol_binario"
+  559  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  560  ./"arbol_binario"
+  561  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  562  ./"arbol_binario"
+  563  cd "/home/ivonne/Documentos/algoritmo/laboratorio4/output"
+  564  ./"arbol_binario"
+  565  git init 
+  566  git add. 
+  567  touch arbolBalanceado.cpp
+  568  git add .
+  569  git status
+  570  git branch
+  571  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  572  ./"arbolBalanceado"
+  573  /home/ivonne/Documentos/algoritmo/laboratorio5
+  574  /home/ivonne/Documentos/algoritmo/laboratorio5/Gene Ontology (GO).csv
+  575  /home/ivonne/Documentos/algoritmo/laboratorio5/output/arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/Gene Ontology (GO).csv"
+  576  4
+  577  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  578  ./"arbolBalanceado"
+  579  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  580  ./"arbolBalanceado"
+  581  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  582  ./"arbolBalanceado"
+  583  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output
+  584  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  585  ./"arbolBalanceado"
+  586  ./arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/Gene Ontology (GO).csv"
+  587  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  588  ./"arbolBalanceado"
+  589  ./arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/Gene Ontology (GO).csv"
+  590  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  591  ./"arbolBalanceado"
+  592  ./arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/GeneOntology(GO).csv
+  593  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  594  ./"arbolBalanceado"
+  595  ./arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/GeneOntology(GO).csv"
+  596  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  597  ./"arbolBalanceado"
+  598  ./arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/GeneOntology(GO).csv"
+  599  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  600  ./"arbolBalanceado"
+  601  ./arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/GeneOntology(GO).csv"
+  602  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  603  ./"arbolBalanceado"
+  604  ./arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/GeneOntology(GO).csv"
+  605  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  606  ./"arbolBalanceado"
+  607  ./arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/GeneOntology(GO).csv"
+  608  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  609  ./"arbolBalanceado"
+  610  ./arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/GeneOntology(GO).csv"
+  611  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  612  ./"arbolBalanceado"
+  613  ./arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/GeneOntology(GO).csv"
+  614  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  615  ./"arbolBalanceado"
+  616  ./arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/GeneOntology(GO).csv"
+  617  cd "/home/ivonne/Documentos/algoritmo/laboratorio5/output"
+  618  ./"arbolBalanceado"
+  619  ./arbolBalanceado "/home/ivonne/Documentos/algoritmo/laboratorio5/GeneOntology(GO).csv"
+  620  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  621  ./"algoritmo_prim"
+  622  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  623  ./"algoritmo_prim"
+  624  ./algoritmo_prim 5
+  625  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  626  ./"algoritmo_prim"
+  627  ./algoritmo_prim 2
+  628  ./algoritmo_prim 3
+  629  5
+  630  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  631  ./"algoritmo_prim"
+  632  ./algoritmo_prim 3
+  633  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  634  ./"algoritmo_prim"
+  635  ./algoritmo_prim 3
+  636  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  637  ./"algoritmo_prim"
+  638  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  639  ./"algoritmo_prim"
+  640  ./algoritmo_prim 3
+  641  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  642  ./"algoritmo_prim"
+  643  ./algoritmo_prim 3
+  644  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  645  ./"algoritmo_prim"
+  646  ./algoritmo_prim 3
+  647  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  648  ./"algoritmo_prim"
+  649  ./algoritmo_prim 3
+  650  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  651  ./"algoritmo_prim"
+  652  ./algoritmo_prim 3
+  653  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  654  ./"algoritmo_prim"
+  655  ./algoritmo_prim 3
+  656  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  657  ./"algoritmo_prim"
+  658  ./algoritmo_prim 3
+  659  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  660  ./"algoritmo_prim"
+  661  ./algoritmo_prim 6
+  662  cd "/home/ivonne/Documentos/algoritmo/laboratorio7/output"
+  663  ./"algoritmo_prim"
+  664  ./algoritmo_prim 6
+  665  mkdir -p /home/ivonne/Documentos/algoritmo/laboratorio6/output
+  666  /home/ivonne/Documentos/algoritmo/laboratorio6/algoritmo_Dijkstra.cpp
+  667  cd algoritmo_Dijkstra
+  668  mkdir -p /home/ivonne/Documentos/algoritmo/laboratorio6/output
+  669  /home/ivonne/Documentos/algoritmo/laboratorio6/.vscode/tasks.json
+  670  {     "version": "2.0.0",;     "tasks": [;         {             "label": "Compilar algoritmo Dijkstra",;             "type": "shell",;             "command": "g++",;             "args": [;                 "-Wall",;                 "-Wextra",;                 "-g3",;                 "${workspaceFolder}/algoritmo_Dijkstra.cpp",;                 "-o",;                 "${workspaceFolder}/output/algoritmo_Dijkstra";             ],;             "group": {;                 "kind": "build",;                 "isDefault": true;             },;             "problemMatcher": [],;             "detail": "Compila el programa Dijkstra";         },;         {             "label": "Ejecutar algoritmo Dijkstra",;             "type": "shell",;             "command": "${workspaceFolder}/output/algoritmo_Dijkstra",;             "group": "none",;             "presentation": {;                 "echo": true,;                 "reveal": "always",;                 "focus": true,;                 "panel": "shared";             },;             "dependsOn": "Compilar algoritmo Dijkstra",;             "detail": "Ejecuta el programa Dijkstra compilado";         };     ]; }; 
+  671  ls
+  672  g++ -Wall -Wextra -g3 algoritmo_Dijkstra.cpp -o output/algoritmo_Dijkstra
+  673  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  674  ./"algoritmo_Dijkstra"
+  675  g++ -Wall -Wextra -g3 algoritmo_Dijkstra.cpp -o output/algoritmo_Dijkstra
+  676  ls
+  677  g++ -Wall -Wextra -g3 algoritmo_Dijkstra.cpp -o output/algoritmo_Dijkstra
+  678  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  679  ./"algoritmo_Dijkstra"
+  680  ls
+  681  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  682  ./"algoritmo_Dijkstra"
+  683  ./dijkstra 3
+  684  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  685  ./"algoritmo_Dijkstra"
+  686  ./algoritmo_Dijkstra 3
+  687  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  688  ./"algoritmo_Dijkstra"
+  689  ./algoritmo_Dijkstra 5
+  690  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  691  ./"algoritmo_Dijkstra"
+  692  ./algoritmo_Dijkstra 5
+  693  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  694  ./"algoritmo_Dijkstra"
+  695  ./algoritmo_Dijkstra 5
+  696  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  697  ./"algoritmo_Dijkstra"
+  698  ./algoritmo_Dijkstra 5
+  699  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  700  ./"algoritmo_Dijkstra"
+  701  ./algoritmo_Dijkstra 5
+  702  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  703  ./"algoritmo_Dijkstra"
+  704  ./algoritmo_Dijkstra 5
+  705  sudo apt install graphviz
+  706  g++ -o algoritmo_Dijkstra ../algoritmo_Dijkstra.cpp
+  707  cd /home/ivonne/Documentos/algoritmo/laboratorio6/output
+  708  ./algoritmo_Dijkstra 5
+  709  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  710  ./"algoritmo_Dijkstra"
+  711  ./algoritmo_Dijkstra 5
+  712  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  713  ./"algoritmo_Dijkstra"
+  714  ./algoritmo_Dijkstra 5
+  715  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  716  ./"algoritmo_Dijkstra"
+  717  ./algoritmo_Dijkstra 5
+  718  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  719  ./"algoritmo_Dijkstra"
+  720  ./algoritmo_Dijkstra 5
+  721  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  722  ./"algoritmo_Dijkstra"
+  723  ./algoritmo_Dijkstra 5
+  724  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  725  ./"algoritmo_Dijkstra"
+  726  ./algoritmo_Dijkstra 5
+  727  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  728  ./"algoritmo_Dijkstra"
+  729  ./algoritmo_Dijkstra 5
+  730  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  731  ./"algoritmo_Dijkstra"
+  732  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  733  ./"algoritmo_Dijkstra"
+  734  ./algoritmo_Dijkstra 5
+  735  sudo apt install graphviz eog
+  736  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  737  ./"algoritmo_Dijkstra"
+  738  ./algoritmo_Dijkstra 5
+  739  ./algoritmo_Dijkstra 3
+  740  ./algoritmo_Dijkstra 5
+  741  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  742  ./"algoritmo_Dijkstra"
+  743  ./algoritmo_Dijkstra 5
+  744  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  745  ./"algoritmo_Dijkstra"
+  746  ./algoritmo_Dijkstra 5
+  747  ./algoritmo_Dijkstra 2
+  748  ./algoritmo_Dijkstra 3
+  749  cd "/home/ivonne/Documentos/algoritmo/laboratorio6/output"
+  750  ./"algoritmo_Dijkstra"
+  751  ./algoritmo_Dijkstra 5
+  752  cd "/home/ivonne/Documentos/algoritmo/laboratorio8/output"
+  753  ./"metodos_ordenamiento"
+  754  ./metodos_ordenamiento 10000 n
+  755  ./metodos_ordenamiento 10 s
+  756  cd "/home/ivonne/Documentos/algoritmo/laboratorio8/output"
+  757  ./"metodos_ordenamiento"
+  758  ./metodos_ordenamiento 10 s
+  759  ./metodos_ordenamiento 10000 n
+  760  ./metodos_ordenamiento 1000 n
+  761  ./metodos_ordenamiento 10000000 n
+  762  cd "/home/ivonne/Documentos/algoritmo/laboratorio8/output"
+  763  ./"metodos_ordenamiento"
+  764  ./metodos_ordenamiento 10000000n
+  765  ./metodos_ordenamiento 10000000 n
+  766  cd "/home/ivonne/Documentos/algoritmo/laboratorio8/output"
+  767  ./"metodos_ordenamiento"
+  768  ./metodos_ordenamiento 10000n
+  769  ./metodos_ordenamiento 10000 n
+  770  ./metodos_ordenamiento 10000 s
+  771  cd "/home/ivonne/Documentos/algoritmo/laboratorio8/output"
+  772  ./"metodos_ordenamiento"
+  773  cd "/home/ivonne/Documentos/algoritmo/laboratorio9/output"
+  774  ./"metodos_busqueda"
+  775  cd "/home/ivonne/Documentos/algoritmo/laboratorio9/output"
+  776  ./"metodos_busqueda"
+  777  ./hash L
+  778  ./metodos_busqueda L
+  779  ./metodos_busqueda C
+  780  ./metodos_busqueda D
+  781  ./metodos_busqueda E
+  782  cd "/home/ivonne/Documentos/algoritmo/laboratorio9/output"
+  783  ./"metodos_busqueda"
+  784  pwd
+  785  mkdir ayed_bash
+  786  cd ayed_bash
+  787  pwd
+  788  [200~cd ~/Descargas
+  789  cd ~/Descargas
+  790  mv "Lab 10.zip" ~/ayed\ bash/
+  791  cd ..
+  792  pwd
+  793  ls l1
+  794  cd ayed_bash
+  795  ls l1
+  796  ls -l1
+  797  unzip "Lab_10.zip"
+  798  ls -l1
+  799  cd Lab_10
+  800  ls -l1
+  801  ls
+  802  ls -l1 *.txt
+  803  ls *.txt
+  804  cd uniprot_info
+  805  ls -l1
+  806  ls *.txt
+  807  ls *G
+  808  ls *g
+  809  ls *A*
+  810  ls G*
+  811  cd ..
+  812  ls *.txt
+  813  ls G*
+  814  ls _A*
+  815  ls A*
+  816  cd uniprot_info
+  817  ls
+  818  ls | wc -l
+  819  ls -a
+  820  ls -l1
+  821  cd  ..
+  822  ls *A*
+  823  cd uniprot_info
+  824  ls -a
+  825  ls -lt
+  826  ls -ltr
+  827  pwd
+  828  cat HEM.txt
+  829  head -n 10 HEM.txt
+  830  tail -n 10 HEM.txt
+  831  less HEM.txt
+  832  grep "NUCLEOTIDE SEQUENCE" HEM.txt
+  833  grep --color=always "NUCLEOTIDE SEQUENCE" HEM.txt
+  834  grep --color=always "GO" HEM.txt
+  835  grep --color=always -r "GO".
+  836  grep -r "GO".
+  837  pwd
+  838  mv .GFP.txt GFP.txt
+  839  ls
+  840  mv .ACE2.txt ACE2.txt
+  841  LS
+  842  ls
+  843  mv .borrar.txt borrar.txt
+  844  ls
+  845  cat borrar.txt
+  846  rm borrar.txt
+  847  ls
+  848  cd ..
+  849  pwd
+  850  historyç
+  851  history
+  852  history > "mis comnados.txt"
+  853  ls -l "mis comandos.txt"
+  854  history > "mis comandos.txt"

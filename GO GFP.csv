@@ -1,0 +1,4 @@
+DR   PDB; 3OGO; X-ray; 2.80 A; A/B/C/D=1-238.
+DR   PDBsum; 3OGO; -.
+DR   GO; GO:0008218; P:bioluminescence; TAS:UniProtKB.
+DR   GO; GO:0006091; P:generation of precursor metabolites and energy; TAS:UniProtKB.

@@ -1,0 +1,45 @@
+DR   GO; GO:0016324; C:apical plasma membrane; IDA:ARUK-UCL.
+DR   GO; GO:0031526; C:brush border membrane; IDA:ARUK-UCL.
+DR   GO; GO:0009986; C:cell surface; IDA:UniProtKB.
+DR   GO; GO:0005929; C:cilium; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030666; C:endocytic vesicle membrane; TAS:Reactome.
+DR   GO; GO:0005788; C:endoplasmic reticulum lumen; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; IDA:UniProtKB.
+DR   GO; GO:0005615; C:extracellular space; IDA:BHF-UCL.
+DR   GO; GO:0016020; C:membrane; NAS:ComplexPortal.
+DR   GO; GO:0045121; C:membrane raft; TAS:BHF-UCL.
+DR   GO; GO:0005886; C:plasma membrane; IDA:UniProtKB.
+DR   GO; GO:0004180; F:carboxypeptidase activity; IDA:UniProtKB.
+DR   GO; GO:0004175; F:endopeptidase activity; IDA:UniProtKB.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0008237; F:metallopeptidase activity; IDA:UniProtKB.
+DR   GO; GO:0008241; F:peptidyl-dipeptidase activity; IDA:UniProtKB.
+DR   GO; GO:0001618; F:virus receptor activity; IDA:UniProtKB.
+DR   GO; GO:0008270; F:zinc ion binding; TAS:BHF-UCL.
+DR   GO; GO:0002003; P:angiotensin maturation; IC:BHF-UCL.
+DR   GO; GO:0003051; P:angiotensin-mediated drinking behavior; IMP:BHF-UCL.
+DR   GO; GO:0097746; P:blood vessel diameter maintenance; IC:BHF-UCL.
+DR   GO; GO:0098670; P:entry receptor-mediated virion attachment to host cell; IDA:UniProt.
+DR   GO; GO:0060135; P:maternal process involved in female pregnancy; IEA:Ensembl.
+DR   GO; GO:0061025; P:membrane fusion; NAS:ComplexPortal.
+DR   GO; GO:0070373; P:negative regulation of ERK1 and ERK2 cascade; IEA:Ensembl.
+DR   GO; GO:2000272; P:negative regulation of signaling receptor activity; IMP:ARUK-UCL.
+DR   GO; GO:0048662; P:negative regulation of smooth muscle cell proliferation; IEA:Ensembl.
+DR   GO; GO:0051957; P:positive regulation of amino acid transport; IMP:UniProtKB.
+DR   GO; GO:0060452; P:positive regulation of cardiac muscle contraction; IEA:Ensembl.
+DR   GO; GO:1903598; P:positive regulation of gap junction assembly; IMP:BHF-UCL.
+DR   GO; GO:1905737; P:positive regulation of L-proline import across plasma membrane; IGI:ARUK-UCL.
+DR   GO; GO:2000379; P:positive regulation of reactive oxygen species metabolic process; IC:BHF-UCL.
+DR   GO; GO:0019065; P:receptor-mediated endocytosis of virus by host cell; NAS:ComplexPortal.
+DR   GO; GO:0046813; P:receptor-mediated virion attachment to host cell; IDA:UniProtKB.
+DR   GO; GO:1903779; P:regulation of cardiac conduction; IMP:BHF-UCL.
+DR   GO; GO:0042127; P:regulation of cell population proliferation; TAS:BHF-UCL.
+DR   GO; GO:0001817; P:regulation of cytokine production; IC:BHF-UCL.
+DR   GO; GO:0050727; P:regulation of inflammatory response; IC:BHF-UCL.
+DR   GO; GO:0003081; P:regulation of systemic arterial blood pressure by renin-angiotensin; IMP:BHF-UCL.
+DR   GO; GO:0022898; P:regulation of transmembrane transporter activity; IGI:ARUK-UCL.
+DR   GO; GO:0019229; P:regulation of vasoconstriction; IC:BHF-UCL.
+DR   GO; GO:0046718; P:symbiont entry into host cell; IDA:UniProtKB.
+DR   GO; GO:0015827; P:tryptophan transport; IEA:Ensembl.
+DR   GO; GO:0019058; P:viral life cycle; NAS:ComplexPortal.

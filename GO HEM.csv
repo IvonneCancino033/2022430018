@@ -1,0 +1,28 @@
+DR   GO; GO:0072562; C:blood microparticle; HDA:UniProtKB.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0071682; C:endocytic vesicle lumen; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0005576; C:extracellular region; TAS:Reactome.
+DR   GO; GO:0005615; C:extracellular space; IDA:UniProtKB.
+DR   GO; GO:1904813; C:ficolin-1-rich granule lumen; TAS:Reactome.
+DR   GO; GO:0031838; C:haptoglobin-hemoglobin complex; IDA:BHF-UCL.
+DR   GO; GO:0005833; C:hemoglobin complex; IDA:BHF-UCL.
+DR   GO; GO:1904724; C:tertiary granule lumen; TAS:Reactome.
+DR   GO; GO:0020037; F:heme binding; IBA:GO_Central.
+DR   GO; GO:0031721; F:hemoglobin alpha binding; IBA:GO_Central.
+DR   GO; GO:0030492; F:hemoglobin binding; IDA:UniProtKB.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0043177; F:organic acid binding; IBA:GO_Central.
+DR   GO; GO:0019825; F:oxygen binding; IDA:UniProtKB.
+DR   GO; GO:0005344; F:oxygen carrier activity; IBA:GO_Central.
+DR   GO; GO:0097746; P:blood vessel diameter maintenance; IEA:UniProtKB-KW.
+DR   GO; GO:0015670; P:carbon dioxide transport; NAS:ComplexPortal.
+DR   GO; GO:0098869; P:cellular oxidant detoxification; IEA:GOC.
+DR   GO; GO:0042744; P:hydrogen peroxide catabolic process; IDA:BHF-UCL.
+DR   GO; GO:0030185; P:nitric oxide transport; IDA:ComplexPortal.
+DR   GO; GO:0015671; P:oxygen transport; IDA:ComplexPortal.
+DR   GO; GO:0070527; P:platelet aggregation; HMP:UniProtKB.
+DR   GO; GO:0045429; P:positive regulation of nitric oxide biosynthetic process; NAS:UniProtKB.
+DR   GO; GO:0008217; P:regulation of blood pressure; IEA:UniProtKB-KW.
+DR   GO; GO:0070293; P:renal absorption; IMP:UniProtKB.
+DR   GO; GO:0042542; P:response to hydrogen peroxide; IDA:BHF-UCL.
